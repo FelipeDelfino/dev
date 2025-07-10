@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\felipe delfino\\downloads\\teste-desenvolvedor\\questao5\\infrastructure\\services\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|c:\\users\\felipe delfino\\downloads\\teste-desenvolvedor\\questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|solutionrelative:questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|c:\\users\\felipe delfino\\downloads\\teste-desenvolvedor\\questao1\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C20B4F-3D90-45C4-84F6-49CBB46DDDB4}|Questao1\\Questao1.csproj|solutionrelative:questao1\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\Questao5\\Infrastructure\\Services\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\Questao5\\Infrastructure\\Services\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:24:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\Questao2\\Program.cs",
+              "RelativeDocumentMoniker": "Questao2\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\Questao2\\Program.cs",
+              "RelativeToolTip": "Questao2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:16:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\Questao1\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Questao1\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Felipe Delfino\\Downloads\\Teste-Desenvolvedor\\Questao1\\ContaBancaria.cs",
+              "RelativeToolTip": "Questao1\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:47:33.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
